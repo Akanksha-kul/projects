@@ -1,0 +1,130 @@
+<script src="https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js"></script>
+  <html lang="en" style="color:white">
+  <head>
+  <title> A tribute to Neil deGrasse Tyson
+  </title>
+</head>
+  <main id="main">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<div id="img-div">
+<h1 style="color:blue;" id="title"> Neil deGrasse Tyson</h1>
+<figure>
+<img class="img" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Tyson_at_TAM6.jpg/800px-Tyson_at_TAM6.jpg" alt="Neil deGrasse Tyson" id="image" >
+    <figcaption id="img-caption">
+      Neil deGrasse Tyson as keynote speaker at TAM6 of the JREF.
+    </figcaption>
+</figure>
+  
+<hr>
+   <section id="tribute-info">
+    <h3 id="headline">Here's a time line of Dr. Neil deGrasse Tyson's life:</h3>
+    <ul id="ul">
+  <li> He was born on <strong> October 5, 1958</strong> in <strong>Manhattan</strong> as second of three children.</li>
+  <li>Neil discovered his love for astronomy in <strong>1967</strong> at age 9.</li>
+  <li>Tyson went to Bronx High School of Science in <strong>1972</strong></li>
+  <li>Tyson graduated Bronx High School of Science in <strong>1974</strong>.</li>
+  <li>Tyson then decided to go to Harvard.</li>
+  <li>Tyson graduated Harvard and received his bachelor's degree in Arts in Physics in <strong>1980</strong></li>
+  <li>Tyson got his masters in arts in physics in <strong>1983</strong></li>
+  <li>Tyson then got his masters in philosophy in astrophysics in <strong>1989</strong> at Columbia University.</li>
+  <li>Further Tyson received his doctorate in philosophy in astrophysics in <strong>1991</strong>.</li>
+  <li>Tyson was hired to work at the Hayden Planetarium in <strong>1996</strong></li>
+  <li>TLater Tysongot promoted to the director of the planetarium in <strong>1998</strong></li>
+  <li>
+    He raised 210 million dollars to make the tourists at the Hayden Planetarium have a new appreciation for astronomy in <strong>2000</strong></li>
+  <li>He was appointed by President Bush to the 9 member "moon, mars, and beyond" committee in <strong>2004</strong></li>
+</ul>
+    <hr>
+      <h3> <u>Here are some books written by Neil deGrasse Tyson</u></h3>
+<ul>
+
+  <li>Merlin's Tour of the Universe</li>
+  <li>Universe Down to Earth (1994).</li>
+  <li>Just Visiting This Planet (1998)</li>
+  <li>One Universe: At Home in the Cosmos (2000)</li>
+  <li>Cosmic Horizons: Astronomy at the Cutting Edge (2000)</li>
+  <li>City of Stars: A New Yorker's Guide to the Cosmos (2002)</li>
+  <li>My Favorite Universe (a 12-part lecture series) (2003).</li>
+  <li>Origins: Fourteen Billion Years of Cosmic Evolution (2004)</li>
+  <li>The Sky Is Not the Limit: Adventures of an Urban Astrophysicist (2004)</li>
+  <li>Death by Black Hole: And Other Cosmic Quandaries (2007)</li>
+  <li>The Pluto Files: The Rise and Fall of America's Favorite Planet (2009)</li>
+  <li>Space Chronicles: Facing the Ultimate Frontier (2012)</li>
+  <li>Welcome to the Universe: An Astrophysical Tour(2016)</li>
+  <li>Astrophysics for people in a hurry (2017)</li>
+  <li>Accessory to War: The Unspoken Alliance Between Astrophysics and the Military (2018)</li>
+  <li>Letters from an Astrophysicist (2019)</li>
+  <li>Cosmic Queries: StarTalk's Guide to Who We Are, How We Got Here, and Where We're Going (2021)</li>
+  </ul>
+    <hr>
+      <h3> <u>Quotes by Neil deGrasse Tyson</u></h3>
+    <blockquote><p>
+      The good thing about science is that it's true whether or not you believe in it.
+    </p>
+    <cite id="cite">-- Neil deGrasse Tyson</cite>
+    <p>
+      We are part of this universe; we are in this universe, but perhaps more important than both of those facts, is that the universe is in us.</p>
+    <cite>-- Neil deGrasse Tyson</cite>
+    <p>
+      Curious that we spend more time congratulating people who have succeeded than encouraging people who have not.</p>
+    <cite>-- Neil deGrasse Tyson</cite>
+      </blockquote>
+  <hr><hr>
+  <h3>For timeline visit: <a  target="_blank" href="https://www.sutori.com/story/neil-degrasse-tyson-timeline--iceG2WR7ym8DKi9CBfTY1Nfp"  style="color:green ">Neil deGrasse Tyson-Timeline</a></h3>
+    <h3>For more details visit: <a id="tribute-link" target="_blank" href="https://en.wikipedia.org/wiki/Neil_deGrasse_Tyson " style="color:yellow " >Neil deGrasse Tyson-Wikipedia</a></h3>
+    </section>
+      </div>
+      </main>
+    </html>
+    
+    
+    
+    
+    <style>
+html{
+  color: white;
+  background-color: grey;
+}
+
+
+#title {
+  text-align: center;
+ color: blue;
+  font-family: century;
+  font-size: 45px;
+    }
+
+#img-div{
+  background-color:black;
+}
+    img{
+        max-width: 100%;
+        height: auto;
+        margin: 0, auto;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        
+
+        border-color:grey;
+        border-style: dotted;
+        border-width: 5px;
+    }
+
+
+#img-caption{
+  font-size: 12px;
+text-align: center;
+}
+
+#tribute-link{
+    color: yellow;
+}
+ul{
+  font-family: monospace;
+}
+p{
+  font-size: 20px;
+text-align: center;
+}
+</style>
